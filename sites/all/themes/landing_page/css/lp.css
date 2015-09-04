@@ -1,0 +1,12 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/\%23projects\/OpenServer\/domains\/base\.profile\/sites\/all\/themes\/landing_page\/sass\/lp\.scss}line{font-family:\000039}}
+#reviews {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/\%23projects\/OpenServer\/domains\/base\.profile\/sites\/all\/themes\/landing_page\/sass\/lp\.scss}line{font-family:\0000314}}
+#reviews .item-list li {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+}
